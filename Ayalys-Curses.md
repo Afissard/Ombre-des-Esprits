@@ -1,2 +1,4 @@
 *lore ici*
-[[création de perso]]
+- [[Création de personnage]]
+- Exemple de fiche de personnage dans `personnages/`
+- Exemple de fiche de campagnes dans `campagnes/` 

@@ -1,7 +1,0 @@
-1. [[fiche personnage - template]]
-2. [[caractéristiques]]
-3. [[races]]
-4. [[spécialisation]]
-5. [[équipement]]
-6. [[magie]]
-7. [[monté de niveaux]]

@@ -1,0 +1,6 @@
+---
+prérequis:
+---
+*description*
+#### Traits
+![[trait]]

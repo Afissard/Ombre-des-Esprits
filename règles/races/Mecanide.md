@@ -1,0 +1,2 @@
+*ce n'est probablement pas une race jouable, mais elle existe dans le lore* 
+Les Mecanides ont fait leur apparition sur le plan materiel en même temps que les Psenites, bien que radicalement différent, ces "golems mécanique" semble être lié à cet étrange peuple. Les Mecanide sont rare, bien plus rare que les elfes et ne semble pas être affecté par le temps non plus. Bien qu'ils ne soient pas capable de magie, ils ont déjà été aperçu arpentant les champs de batailles à la recherche d'âmes perdus.
