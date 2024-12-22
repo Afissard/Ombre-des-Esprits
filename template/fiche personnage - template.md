@@ -35,7 +35,7 @@
 | --- | ----- | ------ | ----- |
 |     |       |        |       |
 # Magie
-Point de magie 10/10
+Point de magie ?/?
 
 | Caractéristique  | intelligence | sagesse | charisme |
 | ---------------- | ------------ | ------- | -------- |

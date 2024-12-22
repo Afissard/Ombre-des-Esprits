@@ -3,4 +3,6 @@ Si la plupart des demi-elfes vivent parmi les humains, certains d'entre eux vive
 ## Traits
 ![[prédisposition à la magie]]
 
+![[lien spirituel]]
+
 ![[polyvalent]]

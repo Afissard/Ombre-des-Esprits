@@ -3,7 +3,10 @@ Souvent fruit d'expérience plus ou moins réussis les chimères sont rarement c
 ## Traits
 
 ![[instinct bestial]]
+
+![[polyvalent]]
+
 ### Traits au choix
 ![[forme bestial]]
 
-![[polyvalent]]
+![[lien spirituel]]
