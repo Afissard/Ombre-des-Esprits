@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"955dc7384cf2c688","type":"group","x":540,"y":50,"width":1520,"height":570,"label":"Guerre de la Magie"},
+		{"id":"bf1718e7a29cb0e4","type":"group","x":2100,"y":20,"width":1160,"height":440,"label":"2ème Ère : L'Ombre des Esprits"},
+		{"id":"296a527137ab1403","type":"group","x":-780,"y":50,"width":1280,"height":350,"label":"1ère Ère : La Genèse"},
+		{"id":"0a6a542b2a1030b8","type":"text","text":"## Première guerre de la magie\nÀ la découverte de la technomagie par les Nains et les Gnomes, les Esprits et les Elfes exprime leur mécontentement et leur peur pour l'équilibre naturel (la magie étant une discipline philosophique et mental, etc).\nDe ce conflit naît une guerre, les peuples humains sont divisé entre les deux bord.","x":560,"y":100,"width":500,"height":260},
+		{"id":"8914575f9a8bb590","type":"text","text":"## Incarnation de certains esprits\nLe peuple Elfe étant en grande défaveur numérique et militaire, certain esprits sacrifie leur mortalité pour s'incarner dans des corps de mortels volontaire pour devenir les premières Chimères de ce monde et assister les Elfes au combat.","x":1120,"y":110,"width":420,"height":240},
+		{"id":"8c450a360e48e28c","type":"text","text":"## Résolution de la guerre  de la magie\nAprès plus de quatre siècles  de guerre intensive peu à peu tournant en défaveur des Elfes. Les Esprits créent un nouveau monde parallèle au [[plan materiel]] : le [[plan spirituel]] et décident de migrer vers ce nouveau monde, abandonnant les derniers Elfes vaincus.","x":1580,"y":115,"width":460,"height":230},
+		{"id":"9c33b5a540305c0a","type":"text","text":"# *Traque d'une bête mystérieuse*\nCampagne / One-Shot sur l'apparition des premières chimères ...\n","x":1120,"y":400,"width":420,"height":200},
+		{"id":"5ef6cb4955f94d99","type":"text","text":"## Une nouvelle ère\nLes Esprits ayant quitter le monde materiel, le monde change grandement, les derniers Elfes s'éteigne peu à peu au fil des millénaire, laissant derrière eux pour seul héritage les ruines d'une civilisation autre fois à la pointes du monde magique ainsi qu'une descendance bâtarde : les [[monde/Demi-Elfe|Demi-Elfe]].\nLes Chimères issues de la Guerre de la Magie, se regroupe et forme un nouveau peuple du plan materiel. Cependant leurs existence et leurs pouvoirs attire la convoitise de certain scientifiques Humains procède à divers expérience, rarement couronnée de succès mais aboutissant tout de même à une seconde \"génération\" de [[Chimères]].","x":2120,"y":40,"width":520,"height":380},
+		{"id":"4deedaf87636db9f","type":"text","text":"## Initiation de quelques mortels au spiritisme\nCertains Elfes, de par leur longévité, montre certaines sensibilités aux esprits et leurs énergie, certain sont même initier par des esprit à la pratique de la magie spirituel.","x":80,"y":110,"width":400,"height":240},
+		{"id":"68fac75f0b6294bd","type":"text","text":"## Apparition des premiers mortels\nSuite à l’influence de certains esprits sur le plan materiel, de nouvelles races d'être aux capacités spirituel, certes limité, se développent. D'abord les [[Elfe|Elfes]] puis les [[Nains]] et [[Gnomes]] et enfin les [[monde/Humain|Humains]].","x":-400,"y":90,"width":400,"height":280},
+		{"id":"22f09278418b2ed8","type":"text","text":"## Genèse du monde\nCréation du plan materiel et de ses premier habitant : les [[Esprits]].","x":-760,"y":160,"width":300,"height":140},
+		{"id":"91297786cbf903be","type":"text","text":"# *Le réveil des Sans-Esprits*\nCampagne ...","x":2760,"y":165,"width":440,"height":130}
+	],
+	"edges":[
+		{"id":"ad8e064512680b38","fromNode":"22f09278418b2ed8","fromSide":"right","toNode":"68fac75f0b6294bd","toSide":"left"},
+		{"id":"fa8b74a788db8531","fromNode":"68fac75f0b6294bd","fromSide":"right","toNode":"4deedaf87636db9f","toSide":"left"},
+		{"id":"56156944d4c2733e","fromNode":"4deedaf87636db9f","fromSide":"right","toNode":"0a6a542b2a1030b8","toSide":"left"},
+		{"id":"006e8b12d4c821ba","fromNode":"0a6a542b2a1030b8","fromSide":"right","toNode":"8914575f9a8bb590","toSide":"left"},
+		{"id":"a6b2845e741f6482","fromNode":"8914575f9a8bb590","fromSide":"right","toNode":"8c450a360e48e28c","toSide":"left"},
+		{"id":"b05437d72b542c3d","fromNode":"8c450a360e48e28c","fromSide":"right","toNode":"5ef6cb4955f94d99","toSide":"left"},
+		{"id":"45595609eadbb066","fromNode":"5ef6cb4955f94d99","fromSide":"right","toNode":"91297786cbf903be","toSide":"left"},
+		{"id":"bd65f41a4c1cd4c9","fromNode":"8914575f9a8bb590","fromSide":"bottom","toNode":"9c33b5a540305c0a","toSide":"top"}
+	]
+}

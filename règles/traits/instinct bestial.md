@@ -1,5 +1,5 @@
 ---
 prérequis:
-  - "[[Chimère Demi-Humain]]"
+  - "[[Chimère]]"
 ---
 Vous avez un bonus de +2 en perception.

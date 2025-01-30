@@ -39,11 +39,11 @@ Points de Ki =  sagesse + bonus de maîtrise (+5?)
 ### Langues
 #TODO 
 # Races
-- [[Humain]]
+- [[règles/races/Humain]]
 - [[Nain]]
 - [[Gnome]]
-- [[Demi-Elfe]]
-- [[Chimère Demi-Humain]]
+- [[règles/races/Demi-Elfe]]
+- [[Chimère]]
 Non jouable mais présentes dans le lore (et sujet à évolution).
 - [[Elfe]]
 - [[Psenite]] 

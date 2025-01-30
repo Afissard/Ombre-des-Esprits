@@ -3,6 +3,6 @@ prérequis:
 ---
 *description*
 #### Traits
-![[maîtrise des armures]]
+![[lutteur]]
 
-![[robuste]]
+![[druidisme]]

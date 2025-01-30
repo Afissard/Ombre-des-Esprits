@@ -1,8 +1,10 @@
-A l'inverse de leurs parents [[Elfe]], les demi-elfes sont eux beaucoup plus présent et actif dans ce monde. Bien qu'ils n'ai pas hérités de leurs longévité, les demi-elfes sont eux tout aussi prédisposé à la magie. De leur père [[Humain]], les demi-elfe ont hérité de leurs polyvalence.
-Si la plupart des demi-elfes vivent parmi les humains, certains d'entre eux vivent avec les restant de la civilisation elfe. 
+![[monde/Demi-Elfe]] 
 ## Traits
 ![[prédisposition à la magie]]
 
 ![[lien spirituel]]
+
+### Traits au choix
+![[résistance mentale]]
 
 ![[polyvalent]]

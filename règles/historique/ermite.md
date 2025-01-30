@@ -3,6 +3,6 @@ prérequis:
 ---
 *description*
 #### Traits
-![[maîtrise des armures]]
+![[lien spirituel]]
 
-![[robuste]]
+![[résistance mentale]]
