@@ -1,6 +1,4 @@
 ---
 prérequis:
 ---
-*description*
-#### Traits
-![[trait]]
+*description et capacité*

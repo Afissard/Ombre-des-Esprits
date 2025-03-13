@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "prérequis": "multitext"
+    "prérequis": "multitext",
+    "Coût PM": "number",
+    "Temps d'incantation": "text",
+    "Concentration": "checkbox"
   }
 }

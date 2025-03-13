@@ -1,0 +1,109 @@
+{
+  "position": "RIGHT",
+  "showFudgeIcon": false,
+  "rollLinksForTags": false,
+  "copyContentButton": true,
+  "customFormulas": [],
+  "displayFormulaForMod": true,
+  "displayResultsInline": false,
+  "displayFormulaAfter": false,
+  "escapeDiceMod": true,
+  "signed": false,
+  "displayLookupRoll": true,
+  "formulas": {},
+  "defaultRoll": 1,
+  "defaultFace": 100,
+  "renderer": false,
+  "renderAllDice": false,
+  "addToView": false,
+  "renderTime": 2000,
+  "colorfulDice": false,
+  "scaler": 1,
+  "diceColor": "#202020",
+  "textColor": "#ffffff",
+  "textFont": "Arial",
+  "showLeafOnStartup": true,
+  "narrativeSymbolSet": "Genesys",
+  "displayAsSymbols": false,
+  "displayAsEmbed": true,
+  "round": "None",
+  "initialDisplay": "Roll",
+  "icons": [
+    {
+      "id": "dice-roller-d4",
+      "shape": "Triangle",
+      "formula": "d4",
+      "text": "4"
+    },
+    {
+      "id": "dice-roller-d6",
+      "shape": "Square",
+      "formula": "d6",
+      "text": "6"
+    },
+    {
+      "id": "dice-roller-d8",
+      "shape": "Diamond",
+      "formula": "d8",
+      "text": "8"
+    },
+    {
+      "id": "dice-roller-d10",
+      "shape": "Diamond",
+      "formula": "d10",
+      "text": "10"
+    },
+    {
+      "id": "dice-roller-d12",
+      "shape": "Dodecahedron",
+      "formula": "d12",
+      "text": "12"
+    },
+    {
+      "id": "dice-roller-d20",
+      "shape": "Icosahedron",
+      "formula": "d20",
+      "text": "20"
+    },
+    {
+      "id": "dice-roller-d100",
+      "shape": "Circle",
+      "formula": "d%",
+      "text": "%"
+    }
+  ],
+  "showRenderNotice": true,
+  "diceModTemplateFolders": {},
+  "replaceDiceModInLivePreview": true,
+  "viewResults": [
+    {
+      "result": "101",
+      "original": "10d10 + 10d10",
+      "resultText": "10d10 + 10d10\n[5, 6, 3, 6, 9, 1, 3, 1, 9, 5] + [9, 4, 3, 3, 10, 10, 6, 3, 4, 1]",
+      "timestamp": 1741686527477,
+      "id": "HFVKa8bMehbW"
+    },
+    {
+      "result": "107",
+      "original": "10d10 + 10d10",
+      "resultText": "10d10 + 10d10\n[10, 4, 6, 1, 10, 4, 10, 10, 1, 1] + [3, 4, 2, 10, 4, 6, 7, 2, 5, 7]",
+      "timestamp": 1741686541215,
+      "id": "2BBMFyOKmby1"
+    },
+    {
+      "result": "123",
+      "original": "10d10 + 10d10",
+      "resultText": "10d10 + 10d10\n[10, 2, 9, 9, 2, 6, 5, 10, 1, 9] + [4, 8, 4, 6, 2, 8, 9, 5, 6, 8]",
+      "timestamp": 1741686542411,
+      "id": "61MfQQxprEPy"
+    },
+    {
+      "result": "114",
+      "original": "10d10 + 10d10",
+      "resultText": "10d10 + 10d10\n[5, 10, 8, 6, 8, 1, 4, 9, 1, 1] + [6, 5, 5, 10, 10, 10, 3, 9, 2, 1]",
+      "timestamp": 1741686543047,
+      "id": "hKYBWpST8MMl"
+    }
+  ],
+  "version": "11.4.1"
+}

@@ -22,7 +22,6 @@
 | jet de sauvegarde                |        |
 | compétance                       |        |
 | maîtrise (arme, armure, outil)   |        |
-| langue                           |        |
 # Traits
 ![[race]]
 
@@ -35,16 +34,16 @@
 | --- | ----- | ------ | ----- |
 |     |       |        |       |
 # Magie
-Point de magie ?/?
+Point de magie : 0/0
 
 | Caractéristique  | intelligence | sagesse | charisme |
 | ---------------- | ------------ | ------- | -------- |
 | DD de sauvegarde |              |         |          |
 | bonus d'attaque  |              |         |          |
 
-| Coût PM | Nom | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes |
-| ------- | --- | --------------------------- | --------------------------------- | ----- |
-|         |     |                             |                                   |       |
+| Coût PM | Nom | Temps d'incantation & Durée | Notes (Concentration, Rituel, Composants, Effets) |
+| ------- | --- | --------------------------- | ------------------------------------------------- |
+|         |     |                             |                                                   |
 # Inventaire
 
 | objet | description |

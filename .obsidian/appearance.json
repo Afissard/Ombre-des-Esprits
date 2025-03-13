@@ -1,3 +1,11 @@
 {
-  "cssTheme": "Catppuccin"
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Liberation Serif",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "baseFontSizeAction": false,
+  "nativeMenus": false
 }
